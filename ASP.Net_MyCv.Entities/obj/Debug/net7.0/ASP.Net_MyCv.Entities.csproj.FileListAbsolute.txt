@@ -1,0 +1,15 @@
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Entities\bin\Debug\net7.0\ASP.Net_MyCv.Entities.deps.json
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Entities\bin\Debug\net7.0\ASP.Net_MyCv.Entities.dll
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Entities\bin\Debug\net7.0\ASP.Net_MyCv.Entities.pdb
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Entities\bin\Debug\net7.0\ASP.Net_MyCv.Core.dll
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Entities\bin\Debug\net7.0\ASP.Net_MyCv.Core.pdb
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Entities\obj\Debug\net7.0\ASP.Net_MyCv.Entities.csproj.AssemblyReference.cache
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Entities\obj\Debug\net7.0\ASP.Net_MyCv.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Entities\obj\Debug\net7.0\ASP.Net_MyCv.Entities.AssemblyInfoInputs.cache
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Entities\obj\Debug\net7.0\ASP.Net_MyCv.Entities.AssemblyInfo.cs
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Entities\obj\Debug\net7.0\ASP.Net_MyCv.Entities.csproj.CoreCompileInputs.cache
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Entities\obj\Debug\net7.0\ASP.Net_MyCv.Entities.csproj.CopyComplete
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Entities\obj\Debug\net7.0\ASP.Net_MyCv.Entities.dll
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Entities\obj\Debug\net7.0\refint\ASP.Net_MyCv.Entities.dll
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Entities\obj\Debug\net7.0\ASP.Net_MyCv.Entities.pdb
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Entities\obj\Debug\net7.0\ref\ASP.Net_MyCv.Entities.dll

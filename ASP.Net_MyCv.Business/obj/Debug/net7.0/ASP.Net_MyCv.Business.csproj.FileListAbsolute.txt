@@ -1,0 +1,12 @@
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\bin\Debug\net7.0\ASP.Net_MyCv.Business.deps.json
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\bin\Debug\net7.0\ASP.Net_MyCv.Business.dll
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\bin\Debug\net7.0\ASP.Net_MyCv.Business.pdb
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\obj\Debug\net7.0\ASP.Net_MyCv.Business.csproj.AssemblyReference.cache
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\obj\Debug\net7.0\ASP.Net_MyCv.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\obj\Debug\net7.0\ASP.Net_MyCv.Business.AssemblyInfoInputs.cache
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\obj\Debug\net7.0\ASP.Net_MyCv.Business.AssemblyInfo.cs
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\obj\Debug\net7.0\ASP.Net_MyCv.Business.csproj.CoreCompileInputs.cache
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\obj\Debug\net7.0\ASP.Net_MyCv.Business.dll
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\obj\Debug\net7.0\refint\ASP.Net_MyCv.Business.dll
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\obj\Debug\net7.0\ASP.Net_MyCv.Business.pdb
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\obj\Debug\net7.0\ref\ASP.Net_MyCv.Business.dll

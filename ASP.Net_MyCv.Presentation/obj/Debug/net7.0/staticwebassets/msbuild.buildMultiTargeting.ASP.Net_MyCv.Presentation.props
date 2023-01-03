@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASP.Net_MyCv.Presentation.props" />
+</Project>
