@@ -16,10 +16,7 @@ namespace CurriculumVitae.DataAccess.EntityFramework.Context
         {
 
         }
-        public CvDbContext()
-        {
-
-        }
+     
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new AdminMapping()).ApplyConfiguration(new AboutMapping()).ApplyConfiguration(new ContactMapping()).ApplyConfiguration(new ProjectMapping()).ApplyConfiguration(new UserMapping());
@@ -28,7 +25,7 @@ namespace CurriculumVitae.DataAccess.EntityFramework.Context
         public DbSet<About> Abouts { get; set; }
         public DbSet<Admin> Admins { get; set; }
         public DbSet<Contact> Contacts { get; set; }
-        public DbSet<Project> Projects { get; set; }
+        public DbSet<Post> Projects { get; set; }
         public DbSet<User> Users { get; set; }
 
         public class CvDbContextFactory : IDesignTimeDbContextFactory<CvDbContext>
@@ -36,7 +33,7 @@ namespace CurriculumVitae.DataAccess.EntityFramework.Context
             public CvDbContext CreateDbContext(string[] args)
             {
                 var optionsBuilder = new DbContextOptionsBuilder<CvDbContext>();
-                optionsBuilder.UseSqlServer("Server=LAPTOP-H9PBUUIN\\MSSQLSERVER2019;Database=CvDb;Trusted_Connection=true;TrustServerCertificate=True;");
+                optionsBuilder.UseSqlServer("Server=LAPTOP-H9PBUUIN\\MSSQLSERVER2019;Database=BlogSiteDb;Trusted_Connection=true;TrustServerCertificate=True;");
 
 
                 return new CvDbContext(optionsBuilder.Options);

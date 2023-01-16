@@ -10,3 +10,10 @@ C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.B
 C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\obj\Debug\net7.0\refint\ASP.Net_MyCv.Business.dll
 C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\obj\Debug\net7.0\ASP.Net_MyCv.Business.pdb
 C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\obj\Debug\net7.0\ref\ASP.Net_MyCv.Business.dll
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\bin\Debug\net7.0\ASP.Net_MyCv.Core.dll
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\bin\Debug\net7.0\ASP.Net_MyCv.DataAccess.dll
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\bin\Debug\net7.0\ASP.Net_MyCv.Entities.dll
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\bin\Debug\net7.0\ASP.Net_MyCv.DataAccess.pdb
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\bin\Debug\net7.0\ASP.Net_MyCv.Core.pdb
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\bin\Debug\net7.0\ASP.Net_MyCv.Entities.pdb
+C:\Users\serka\OneDrive\Masaüstü\visual\03.01.2023\ASP.Net_MYCV\ASP.Net_MyCv.Business\obj\Debug\net7.0\ASP.Net_MyCv.Business.csproj.CopyComplete

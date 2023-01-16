@@ -18,5 +18,7 @@ namespace ASP.Net_MyCv.Entities.Concrete
         public DateTime CreatedDate { get; set; }
         public DateTime? UpdatedDate { get; set; }
         public DateTime? DeletedDate { get; set; }
-    }
+		public Roles Roles { get; set; }
+
+	}
 }

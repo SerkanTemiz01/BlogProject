@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ASP.Net_MyCv.Core.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,5 +13,7 @@ namespace ASP.Net_MyCv.Entities.Abstract
 
         string UserName { get; set; }
         string Password { get; set; }
-    }
+		public Roles Roles { get; set; }
+
+	}
 }
