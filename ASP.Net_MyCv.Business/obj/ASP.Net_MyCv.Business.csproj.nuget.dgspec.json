@@ -31,7 +31,237 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.DataAccess\\ASP.Net_MyCv.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.DataAccess\\ASP.Net_MyCv.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.Core\\ASP.Net_MyCv.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.Core\\ASP.Net_MyCv.Core.csproj",
+        "projectName": "ASP.Net_MyCv.Core",
+        "projectPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.Core\\ASP.Net_MyCv.Core.csproj",
+        "packagesPath": "C:\\Users\\serka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\serka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.DataAccess\\ASP.Net_MyCv.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.DataAccess\\ASP.Net_MyCv.DataAccess.csproj",
+        "projectName": "ASP.Net_MyCv.DataAccess",
+        "projectPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.DataAccess\\ASP.Net_MyCv.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\serka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\serka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.Core\\ASP.Net_MyCv.Core.csproj": {
+                "projectPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.Core\\ASP.Net_MyCv.Core.csproj"
+              },
+              "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.Entities\\ASP.Net_MyCv.Entities.csproj": {
+                "projectPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.Entities\\ASP.Net_MyCv.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.Entities\\ASP.Net_MyCv.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.Entities\\ASP.Net_MyCv.Entities.csproj",
+        "projectName": "ASP.Net_MyCv.Entities",
+        "projectPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.Entities\\ASP.Net_MyCv.Entities.csproj",
+        "packagesPath": "C:\\Users\\serka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\serka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.Core\\ASP.Net_MyCv.Core.csproj": {
+                "projectPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\visual\\03.01.2023\\ASP.Net_MYCV\\ASP.Net_MyCv.Core\\ASP.Net_MyCv.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

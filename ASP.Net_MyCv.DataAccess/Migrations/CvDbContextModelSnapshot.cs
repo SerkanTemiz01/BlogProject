@@ -77,6 +77,9 @@ namespace ASP.NetMyCv.DataAccess.Migrations
                         .HasMaxLength(25)
                         .HasColumnType("nvarchar(25)");
 
+                    b.Property<int>("Roles")
+                        .HasColumnType("int");
+
                     b.Property<int>("Status")
                         .HasColumnType("int");
 
@@ -133,9 +136,9 @@ namespace ASP.NetMyCv.DataAccess.Migrations
                     b.ToTable("Contacts");
                 });
 
-            modelBuilder.Entity("ASP.Net_MyCv.Entities.Concrete.Project", b =>
+            modelBuilder.Entity("ASP.Net_MyCv.Entities.Concrete.Post", b =>
                 {
-                    b.Property<Guid>("ProjectID")
+                    b.Property<Guid>("PostID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
@@ -166,7 +169,7 @@ namespace ASP.NetMyCv.DataAccess.Migrations
                     b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("datetime2");
 
-                    b.HasKey("ProjectID");
+                    b.HasKey("PostID");
 
                     b.ToTable("Projects");
                 });
@@ -187,6 +190,9 @@ namespace ASP.NetMyCv.DataAccess.Migrations
                         .IsRequired()
                         .HasMaxLength(25)
                         .HasColumnType("nvarchar(25)");
+
+                    b.Property<int>("Roles")
+                        .HasColumnType("int");
 
                     b.Property<int>("Status")
                         .HasColumnType("int");

@@ -9,11 +9,11 @@ using System.Threading.Tasks;
 
 namespace CurriculumVitae.DataAccess.EntityFramework.Mapping
 {
-    public class ProjectMapping : BaseEntityTypeConfig<Project>
+    public class ProjectMapping : BaseEntityTypeConfig<Post>
     {
-        public override void Configure(EntityTypeBuilder<Project> builder)
+        public override void Configure(EntityTypeBuilder<Post> builder)
         {
-            builder.HasKey(x => x.ProjectID);
+            builder.HasKey(x => x.PostID);
             builder.Property(x => x.Name).HasMaxLength(25);
             builder.Property(x => x.Description).HasMaxLength(25);
             builder.Property(x => x.ProjectPicture).IsRequired(false);

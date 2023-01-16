@@ -674,6 +674,9 @@
         }
       },
       "ASP.Net_MyCv.Core/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.1"
+        },
         "runtime": {
           "ASP.Net_MyCv.Core.dll": {}
         }
